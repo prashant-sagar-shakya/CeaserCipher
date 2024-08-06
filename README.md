@@ -73,7 +73,7 @@ Open your web browser and visit [http://127.0.0.1:5000](http://127.0.0.1:5000) t
 ## Project Structure
 
 ```
-caesar-cipher-flask/
+CeaserCipher/
 │
 ├── app.py                    # Main Flask application file
 ├── requirements.txt          # List of dependencies
