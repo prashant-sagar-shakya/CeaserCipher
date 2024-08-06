@@ -77,9 +77,11 @@ caesar-cipher-flask/
 │
 ├── app.py                    # Main Flask application file
 ├── requirements.txt          # List of dependencies
-├── static/
-│   └── css/
-│       └── styles.css        # Custom CSS styles
+├── static/                   # Static files directory
+│   ├── css/
+│   │   └── styles.css        # Custom CSS styles
+│   ├── img/                  # Image directory for icons and images
+│   │   └── favicon.ico       # Favicon file
 └── templates/
     └── index.html            # HTML template for the web interface
 ```
